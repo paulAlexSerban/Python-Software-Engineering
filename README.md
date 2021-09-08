@@ -1,6 +1,6 @@
 # Python-Software-Engineering
 
-## Pyton Software Engineering Workbook
+## Data Structures and Algorithms
 * [Python Practice Workbook](https://github.com/paulAlexSerban/Python-Workbook)
 
 ### Certification Repos
